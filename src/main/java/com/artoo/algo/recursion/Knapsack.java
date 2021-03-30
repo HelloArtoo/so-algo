@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.recursion;
+package com.artoo.algo.recursion;
 
 /**
  * 给定两个长度都为N的数组weights和values，

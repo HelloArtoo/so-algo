@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.tree;
+package com.artoo.algo.tree;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.binarysearch;
+package com.artoo.algo.binarysearch;
 
 /**
  * <pre>

@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.graph;
+package com.artoo.algo.graph;
 
 /**
  * 1）总是从权值最小的边开始考虑，依次考察权值依次变大的边

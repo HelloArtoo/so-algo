@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.string;
+package com.artoo.algo.string;
 
 public class LongestCommonPrefix {
 

@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.greedy;
+package com.artoo.algo.greedy;
 
 import java.util.Arrays;
 import java.util.Comparator;

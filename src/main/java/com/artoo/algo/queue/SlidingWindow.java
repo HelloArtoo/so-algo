@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.queue;
+package com.artoo.algo.queue;
 
 import java.util.ArrayDeque;
 import java.util.Comparator;

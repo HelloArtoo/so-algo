@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.bit;
+package com.artoo.algo.bit;
 
 /**
  * 对于一个输入的int整型，保留其二进制存储中的最后一个1，其余的全部置为0，然后再以int型输出

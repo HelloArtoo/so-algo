@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.array;
+package com.artoo.algo.array;
 
 /**
  * 给你两个数组，arr1 和 arr2，

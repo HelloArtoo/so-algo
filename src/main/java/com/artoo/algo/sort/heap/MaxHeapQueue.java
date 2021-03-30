@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.sort.heap;
+package com.artoo.algo.sort.heap;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

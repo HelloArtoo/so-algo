@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.list;
+package com.artoo.algo.list;
 
 /**
  * 将单向链表按某值划分成左边小、中间相等、右边大的形式

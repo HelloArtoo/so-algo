@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.bit;
+package com.artoo.algo.bit;
 
 /**
  * 找到int二进制中1的个数

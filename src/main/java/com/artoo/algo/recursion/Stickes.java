@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.recursion;
+package com.artoo.algo.recursion;
 
 /**
  * 给定一个字符串str，给定一个字符串类型的数组arr。

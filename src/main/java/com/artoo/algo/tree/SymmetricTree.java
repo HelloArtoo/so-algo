@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.tree;
+package com.artoo.algo.tree;
 
 /**
  * 给定一个二叉树，检查它是否是镜像对称的。

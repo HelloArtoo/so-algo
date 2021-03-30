@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.recursion;
+package com.artoo.algo.recursion;
 
 /**
  * 两个字符串的最长公共子序列

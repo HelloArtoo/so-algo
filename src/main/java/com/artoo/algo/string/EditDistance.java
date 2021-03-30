@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.string;
+package com.artoo.algo.string;
 
 /**
  * 动态规划：编辑距离<br/>

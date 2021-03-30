@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.string;
+package com.artoo.algo.string;
 
 import java.util.HashMap;
 import java.util.Map;

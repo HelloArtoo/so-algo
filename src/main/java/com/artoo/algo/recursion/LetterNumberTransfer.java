@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.recursion;
+package com.artoo.algo.recursion;
 
 /**
  * 规定1和A对应、2和B对应、3和C对应...

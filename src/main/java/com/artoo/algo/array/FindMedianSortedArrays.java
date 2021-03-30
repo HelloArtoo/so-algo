@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.array;
+package com.artoo.algo.array;
 
 public class FindMedianSortedArrays {
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {

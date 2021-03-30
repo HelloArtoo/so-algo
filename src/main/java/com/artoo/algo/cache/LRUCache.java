@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.cache;
+package com.artoo.algo.cache;
 
 import java.util.HashMap;
 

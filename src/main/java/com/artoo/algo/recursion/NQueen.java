@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.recursion;
+package com.artoo.algo.recursion;
 
 /**
  * N皇后问题是指在N*N的棋盘上要摆N个皇后，

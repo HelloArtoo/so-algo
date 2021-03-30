@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.sort;
+package com.artoo.algo.sort;
 
 /**
  * 在一个数组中，一个数左边比它小的数的总和，叫数的小和，所有数的小和累加起来，叫数组小和。求数组小和。

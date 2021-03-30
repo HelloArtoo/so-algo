@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.bit;
+package com.artoo.algo.bit;
 
 /**
  * 一个数组中有两种数出现了奇数次，其他数都出现了偶数次，怎么找到并打印这两种数

@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.array;
+package com.artoo.algo.array;
 
 import java.util.ArrayList;
 import java.util.List;

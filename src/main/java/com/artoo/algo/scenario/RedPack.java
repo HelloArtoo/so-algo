@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.scenario;
+package com.artoo.algo.scenario;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.collection;
+package com.artoo.algo.collection;
 
 import java.util.LinkedList;
 import java.util.Queue;

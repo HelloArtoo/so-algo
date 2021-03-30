@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.dp;
+package com.artoo.algo.dp;
 
 /**
  * 动态规划

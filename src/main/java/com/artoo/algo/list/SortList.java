@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.list;
+package com.artoo.algo.list;
 
 /**
  * 排序链表

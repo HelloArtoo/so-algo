@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.list.skiplist;
+package com.artoo.algo.list.skiplist;
 
 public class SkipList2 {
 

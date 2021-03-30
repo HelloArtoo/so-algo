@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.greedy;
+package com.artoo.algo.greedy;
 
 /**
  * 给定一个字符串str，只由‘X’和‘.’两种字符构成。

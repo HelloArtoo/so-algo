@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.math;
+package com.artoo.algo.math;
 
 import java.util.LinkedHashMap;
 

@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.sort;
+package com.artoo.algo.sort;
 
 import java.util.Arrays;
 

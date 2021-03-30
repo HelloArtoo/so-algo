@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.queue;
+package com.artoo.algo.queue;
 
 import java.util.PriorityQueue;
 import java.util.Random;

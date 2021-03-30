@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.backtracing;
+package com.artoo.algo.backtracing;
 
 /**
  * 0-1背包问题

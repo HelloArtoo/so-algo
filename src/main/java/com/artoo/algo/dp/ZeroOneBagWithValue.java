@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.dp;
+package com.artoo.algo.dp;
 
 /**
  * 0-1背包变种版本

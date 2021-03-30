@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.string;
+package com.artoo.algo.string;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.list;
+package com.artoo.algo.list;
 
 public class RemoveFromEnd {
     public static ListNode removeNthFromEnd(ListNode head, int n) {

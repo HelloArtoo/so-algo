@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.list;
+package com.artoo.algo.list;
 
 /**
  * 一种特殊的单链表节点类描述如下

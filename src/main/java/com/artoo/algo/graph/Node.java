@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.graph;
+package com.artoo.algo.graph;
 
 import lombok.Data;
 

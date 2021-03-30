@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.tree;
+package com.artoo.algo.tree;
 
 /**
  * 中序遍历，求二叉树的后继节点 o(k)非o(n)的复杂度优化

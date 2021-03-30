@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.scenario;
+package com.artoo.algo.scenario;
 
 /**
  * 假设你正在爬楼梯。需要 n 阶你才能到达楼顶。

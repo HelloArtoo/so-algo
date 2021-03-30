@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.thread;
+package com.artoo.algo.thread;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.LockSupport;

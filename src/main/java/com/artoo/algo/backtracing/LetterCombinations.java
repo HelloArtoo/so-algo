@@ -1,4 +1,4 @@
-package com.gobue.blink.algo.backtracing;
+package com.artoo.algo.backtracing;
 
 import java.util.*;
 
