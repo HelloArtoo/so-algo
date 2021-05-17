@@ -110,7 +110,7 @@ public class QuickSort {
 
         //可以作为快排2.0的实现
         public static int[] netherlandFlag(int[] arr, int l, int r) {
-            if (l < r) {
+            if (l > r) {
                 return new int[]{-1, -1};
             }
 

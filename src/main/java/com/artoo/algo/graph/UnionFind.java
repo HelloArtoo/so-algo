@@ -28,8 +28,7 @@ public class UnionFind {
     /**
      * 1、组成新node, 然后进行原始指向 V -> Node<V>
      * 2、寻找根，findFather，如果根一样，则进行挂载
-     * 3、小挂大，优化后，小的扁平化挂载到father点
-     */
+      */
     public static class UnionSet<V> {
 
         private Map<V, Node<V>> nodes;

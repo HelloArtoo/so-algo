@@ -1,4 +1,4 @@
-package com.artoo.algo.stack;
+package com.artoo.algo.monotonicstack;
 
 import java.util.HashMap;
 import java.util.Map;
